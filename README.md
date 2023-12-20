@@ -25,4 +25,7 @@ Below are the metrics needed to fulfill the stakeholder's requirements:
 
 8. Insert a slicer for country, gender, products
 
+# DASHBOARD
+![]()
+
  
