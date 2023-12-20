@@ -26,6 +26,6 @@ Below are the metrics needed to fulfill the stakeholder's requirements:
 8. Insert a slicer for country, gender, products
 
 # DASHBOARD
-![]()
+![Bike-sales-dasboard](https://github.com/Kimagut/Bike-Sales-Visualization/blob/main/VIZ1.JPG?raw=true)
 
  
